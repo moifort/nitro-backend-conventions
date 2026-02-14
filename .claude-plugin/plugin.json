@@ -1,0 +1,9 @@
+{
+  "name": "nitro-backend-conventions",
+  "version": "1.0.0",
+  "description": "TypeScript backend conventions for Nitro/H3: branded types, zod validation, namespaces, domain structure",
+  "author": {
+    "name": "moifort"
+  },
+  "repository": "https://github.com/moifort/nitro-backend-conventions"
+}
