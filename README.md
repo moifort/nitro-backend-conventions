@@ -16,7 +16,7 @@ This skill distills practical Nitro/H3 backend patterns into actionable, concise
 Install this skill with a single command:
 
 ```bash
-npx skills add https://github.com/moifort/nitro-backend-conventions --skill nitro-backend
+bunx skills add https://github.com/moifort/nitro-backend-conventions --skill nitro-backend
 ```
 
 For more information, [visit the skills.sh platform page](https://skills.sh/moifort/nitro-backend-conventions/nitro-backend).
